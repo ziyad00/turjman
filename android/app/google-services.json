@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872578820268",
+    "project_id": "clubhouse2-430bc",
+    "storage_bucket": "clubhouse2-430bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872578820268:android:55fc11e4108a5502bfd709",
+        "android_client_info": {
+          "package_name": "com.example.turjman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872578820268-qal02eej2vb9memk8rrcuk65hngigj7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlpX56BvXUJL21fcYqzruoQkXUaNElAJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872578820268-qal02eej2vb9memk8rrcuk65hngigj7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
